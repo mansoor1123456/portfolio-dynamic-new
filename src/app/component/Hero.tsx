@@ -35,10 +35,7 @@ const Hero = () => {
         <div className='w-[100px] h-[2px] bg-blue-700'></div>
 
       <p className="mb-8 leading-relaxed">
-        Copper mug try-hard pitchfork pour-over freegan heirloom neutra air
-        plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk
-        tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard
-        chambray.
+      Frontend wizard air plant vibes, chambray grids, truffaut buttons, heirloom CSS—tote bag smooth UX. Neutra code, tacos of React, hexagon APIs, freegan flows, mlkshk deploys, cold-pressed UI—hot chicken pixel-perfect.
       </p>
       <div className="flex justify-center">
        <Link href={'#Contact'}>

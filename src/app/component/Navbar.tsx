@@ -19,16 +19,6 @@ const Navbar = () => {
             <Link className="mr-5 hover:text-blue-600" href={"#project"}>Project</Link>
             <Link className="mr-5 hover:text-blue-600" href={"#Contact"}>Contact</Link>
           </nav>
-        
-          <a href="/myCv.pdf">
-          <button className="inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0">
-                    Download CV
-             <AiOutlineCloudDownload className="text-xl ml-2" />
-           
-          </button>
-          </a>
-     
-     
         </div>
       </header>
     </div>

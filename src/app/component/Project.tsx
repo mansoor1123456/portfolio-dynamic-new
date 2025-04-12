@@ -28,13 +28,12 @@ const Project = () => {
                     Mille Stone Project
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                    Mille Stone
+                    Burger Website
                   </h1>
                   <p className="leading-relaxed">
-                    Photo booth fam kinfolk cold-pressed sriracha leggings
-                    jianbing microdosing tousled waistcoat.
+                  "Juicy burgers, handcrafted daily with organic flair — flavor-packed, trendy bites for every craving."
                   </p>
-                  <Link target="_blank" href={"https://class-6-eight.vercel.app/"}>
+                  <Link target="_blank" href={"https://burger-website-inky.vercel.app/"}>
                     <p className="leading-relaxed text-blue-500 hover:underline">
                       View Project..
                     </p>
@@ -53,16 +52,15 @@ const Project = () => {
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-                    AI Project
+                  Mille Stone Project
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                    AI
+                    Women Cloth Website
                   </h1>
                   <p className="leading-relaxed">
-                    Photo booth fam kinfolk cold-pressed sriracha leggings
-                    jianbing microdosing tousled waistcoat.
+                  "Trendy, cozy, and bold styles for modern women—chic, effortless, and unapologetically unique."
                   </p>
-                  <Link target="_blank" href={"https://project-portfolio-ten-black.vercel.app/	"}>
+                  <Link target="_blank" href={"https://womencloth-store.vercel.app/"}>
                     <p className="leading-relaxed text-blue-500 hover:underline">
                       View Project..
                     </p>
@@ -80,16 +78,15 @@ const Project = () => {
                 />
                 <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
                   <h2 className="tracking-widest text-sm title-font font-medium text-blue-500 mb-1">
-                    Technology Project
+                    Mille Stone Project
                   </h2>
                   <h1 className="title-font text-lg font-medium text-gray-900 mb-3">
-                    Technology
+                     Car Showroom
                   </h1>
                   <p className="leading-relaxed">
-                    Photo booth fam kinfolk cold-pressed sriracha leggings
-                    jianbing microdosing tousled waistcoat.
+                  "Sleek rides, vintage vibes, turbo flair — where performance meets personality in every drive."
                   </p>
-                  <Link target="_blank" href={"https://burger-website-inky.vercel.app/"}>
+                  <Link target="_blank" href={"https://class-6-eight.vercel.app/"}>
                     <p className="leading-relaxed text-blue-500 hover:underline">
                       View Project..
                     </p>

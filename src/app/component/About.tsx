@@ -21,25 +21,11 @@ const About = () => {
               About Me
             </h1>
             <p className="mb-5 leading-relaxed">
-              Copper mug try-hard pitchfork pour-over freegan heirloom neutra
-              air plant cold-pressed tacos poke beard tote bag. Heirloom echo
-              park mlkshk tote bag selvage hot chicken authentic tumeric
-              truffaut hexagon try-hard chambray.
+            I'm a code artisan passionate about building clean, minimal, and deploy-ready web experiences. I tinker with Next.js, craft UIs with Tailwind CSS, and believe in ethical debugging with a love for clean, typesafe code. Whether it’s designing pixel-perfect components from Figma flows, or writing semantic markup with dark mode in mind, I thrive in fast-paced, cloud-native sprints.
             </p>
             <p className="mb-5 leading-relaxed">
-              Copper mug try-hard pitchfork pour-over freegan heirloom neutra
-              air plant cold-pressed tacos poke beard tote bag. Heirloom echo
-              park mlkshk tote bag selvage hot chicken authentic tumeric
-              truffaut hexagon try-hard chambray.
+            I live for the hustle, push tab-space harmony, and treat each endpoint like a work of art.
             </p>
-
-            <div className="flex justify-center">
-              <a href={"/myCv.pdf"}>
-                <button className="inline-flex text-white bg-blue-500 border-0 py-2 px-6 focus:outline-none hover:bg-blue-600 rounded text-lg">
-                  View CV
-                </button>
-              </a>
-            </div>
           </div>
         </div>
       </section>

@@ -23,17 +23,17 @@ const Contact = () => {
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
                   ADDRESS
                 </h2>
-                <p className="mt-1">XYZ</p>
+                <p className="mt-1">F.B Area</p>
               </div>
               <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs">
                   EMAIL
                 </h2>
-                <a className="text-blue-500 leading-relaxed">xyz@email.com</a>
+                <a className="text-blue-500 leading-relaxed">mansoorcreative15@gmail.com</a>
                 <h2 className="title-font font-semibold text-gray-900 tracking-widest text-xs mt-4">
                   PHONE
                 </h2>
-                <p className="leading-relaxed">0333-------</p>
+                <p className="leading-relaxed">03302358970</p>
               </div>
             </div>
           </div>
