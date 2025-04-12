@@ -1,5 +1,6 @@
 import React from "react";
 import Image from "next/image";
+import pic3 from "/public/pic-3.jpg"; // ✅ Proper import
 
 const About = () => {
   return (
@@ -10,7 +11,7 @@ const About = () => {
             <Image
               className="object-cover object-center rounded mx-auto w-[300px] h-[400px]"
               alt="hero"
-              src={require("/public/pic-3.jpg")}
+              src={pic3}
               width={300}
               height={500}
             />
