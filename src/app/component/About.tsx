@@ -25,7 +25,7 @@ const About = () => {
               About Me
             </h1>
             <p className="mb-5 leading-relaxed">
-              I'm a code artisan passionate about building clean, minimal, and deploy-ready web experiences. I tinker with Next.js, craft UIs with Tailwind CSS, and believe in ethical debugging with a love for clean, typesafe code. Whether it's designing pixel-perfect components from Figma flows, or writing semantic markup with dark mode in mind, I thrive in fast-paced, cloud-native sprints.
+              I&apos;m a code artisan passionate about building clean, minimal, and deploy-ready web experiences. I tinker with Next.js, craft UIs with Tailwind CSS, and believe in ethical debugging with a love for clean, typesafe code. Whether it&apos;s designing pixel-perfect components from Figma flows, or writing semantic markup with dark mode in mind, I thrive in fast-paced, cloud-native sprints.
             </p>
             <p className="mb-5 leading-relaxed">
               I live for the hustle, push tab-space harmony, and treat each endpoint like a work of art.
